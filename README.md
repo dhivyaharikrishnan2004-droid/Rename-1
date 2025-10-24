@@ -1,2 +1,2 @@
 # Rename-1
-for practicing
+For practicing
